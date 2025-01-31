@@ -1,9 +1,10 @@
-# React + Vite
+# RPGPT - An RPG inside ChatGPT! 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RPGPT is a simple text-based RPG where players make choices to progress through the game. The game state is fetched from a backend, and the UI dynamically updates based on the player's decisions.
 
-Currently, two official plugins are available:
+## Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# RPGPT
+- 📜 **Dynamic Storytelling** – Choices influence the narrative.
+- ⏳ **Smooth Text Animation** – Text appears with a typing effect.
+- 💾 **Save & Load Game** – Store and restore progress with JSON files.
+- 🔄 **Async Updates** – Fetch game state from a backend API.
